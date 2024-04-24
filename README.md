@@ -1,4 +1,5 @@
 // This file is copy another page
+
 const ejs = require('ejs')
 const ora = require('ora')
 const { promisify } = require('util')
